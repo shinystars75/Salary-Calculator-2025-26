@@ -1,0 +1,6 @@
+{
+  "name": " Salary Increase Calculator (2025-26)",
+  "description": "An advanced salary calculator for Pakistani government employees to estimate their salary increase based on the 2025-2026 budget announcements. It calculates the 25% Ad-hoc Relief and 30% Disparity Reduction Allowance (DRA) based on user-provided BPS, Stage, and current salary.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
